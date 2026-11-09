@@ -1,12 +1,15 @@
 # 🦃 Friendsgiving 2026 Potluck & RSVP Webpage
 
 A responsive, festive web application for organizing **Friendsgiving 2026**! 
-Built with [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), [Supabase](https://supabase.com), and hosted on [Vercel](https://vercel.com).
 
-![Friendsgiving 2026](https://img.shields.io/badge/Status-Live-success)
+🌐 **Live URL**: [https://friendsgiving-2026-ebon.vercel.app](https://friendsgiving-2026-ebon.vercel.app)  
+📦 **GitHub Repo**: [https://github.com/AriYB/2026-Friendsgiving-potluck](https://github.com/AriYB/2026-Friendsgiving-potluck)  
+🗄️ **Supabase Project**: `friendsgiving-2026`
+
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-blue?logo=vercel)
 
 ---
 
