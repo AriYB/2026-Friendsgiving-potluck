@@ -2,10 +2,10 @@ import { Clock, MapPin, Sparkles, HelpCircle, Car, Gift } from 'lucide-react';
 
 export default function EventDetails() {
   const scheduleItems = [
-    { time: '5:00 PM', title: 'Arrivals, Appetizers & Warm Cider', desc: 'Settle in, grab a drink, and catch up with everyone.' },
-    { time: '6:00 PM', title: 'The Feast is Served', desc: 'Carving the turkey and digging into everyone’s delicious sides!' },
-    { time: '7:15 PM', title: 'Toasts & Grateful Notes', desc: 'A quick moment to share what we’re grateful for this year.' },
-    { time: '7:45 PM', title: 'Desserts, Coffee & Board Games', desc: 'Pies, treats, and casual games into the evening.' },
+    { time: '6:00 PM', title: 'Doors Open, Appetizers & Warm Cider', desc: 'Arrive, settle in, grab a drink, and catch up with everyone.' },
+    { time: '6:30 PM', title: 'The Feast is Served', desc: 'Dinner starts! Carving the turkey and digging into everyone’s delicious sides.' },
+    { time: '7:45 PM', title: 'Toasts & Grateful Notes', desc: 'A quick moment together to share what we’re grateful for this year.' },
+    { time: '8:15 PM', title: 'Desserts, Coffee & Board Games', desc: 'Pies, treats, coffee, and casual games into the evening.' },
   ];
 
   const faqs = [

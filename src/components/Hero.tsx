@@ -4,8 +4,8 @@ import Countdown from './Countdown';
 import { Calendar, MapPin, Clock, UtensilsCrossed, Sparkles } from 'lucide-react';
 
 export default function Hero() {
-  // Friendsgiving 2026: Saturday, November 21, 2026 at 5:00 PM EST
-  const eventDate = '2026-11-21T17:00:00';
+  // Friendsgiving 2026: Tuesday, November 24, 2026 - Doors open at 6:00 PM EST, Dinner at 6:30 PM
+  const eventDate = '2026-11-24T18:00:00';
 
   return (
     <header className="relative overflow-hidden pt-12 pb-16 md:pt-16 md:pb-24 bg-gradient-to-b from-autumn-100/70 via-harvest-50/50 to-autumn-50/30 border-b border-autumn-200/50">
@@ -42,7 +42,7 @@ export default function Hero() {
             </div>
             <div>
               <p className="text-xs uppercase font-semibold text-autumn-500 tracking-wider">Date</p>
-              <p className="font-semibold text-autumn-950 text-sm sm:text-base">Sat, Nov 21, 2026</p>
+              <p className="font-semibold text-autumn-950 text-sm sm:text-base">Tue, Nov 24, 2026</p>
             </div>
           </div>
 
@@ -52,7 +52,8 @@ export default function Hero() {
             </div>
             <div>
               <p className="text-xs uppercase font-semibold text-autumn-500 tracking-wider">Time</p>
-              <p className="font-semibold text-autumn-950 text-sm sm:text-base">5:00 PM EST</p>
+              <p className="font-semibold text-autumn-950 text-sm sm:text-base">Doors 6:00 PM</p>
+              <p className="text-[11px] text-autumn-600 font-medium">Dinner at ~6:30 PM</p>
             </div>
           </div>
 
